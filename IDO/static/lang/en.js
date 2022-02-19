@@ -16,7 +16,7 @@ module.exports = {
         "f5_14":"About us",
         "f5_15":"Audit report",
         "f5_16":"Successful",
-        "f5_17":"The public offering has ended",
+        "f5_17":"Public offering end",
         "f5_18":"confirm",
         "f5_19":"* This subscription is calculated on the basis of number of shares. The minimum number of shares is:",
         "f5_20":"Already the minimum purchase share quantity!",
